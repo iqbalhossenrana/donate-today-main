@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.banner-image {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    background-position: center;
+
+
+
+}
+
+.banner-text {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-20%, -20%);
+
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(241, 64, 0);
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+.Donet-text {
+    text-align: center;
+
+
+}
+
+.Donat-monye {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+
+
+
+
+
+}
+
+.border-margin {
+    color: rgb(243, 141, 141);
+    border-style: solid;
+    padding: 10px 20px;
+
+
+}
+
+.text-align {
+    text-align: center;
+}
+
+.testarea {
+
+    border: none;
+    resize: none;
+    outline: none;
+
+
+}
